@@ -30,3 +30,5 @@ $$u(t) = K_p e(t) + K_i \int e(t)dt + K_d \frac{de(t)}{dt}$$
 3. **Run the simulation:**
    ```bash
    streamlit run "PID Controller.py"
+
+Project Repository for Educational Purposes.
