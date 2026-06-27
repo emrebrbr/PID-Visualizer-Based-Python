@@ -1,0 +1,12 @@
+# --- Web Interface ---
+# Stable version for UI components and graphical representations
+streamlit>=1.20.0
+
+# --- Math and Data Processing ---
+# For PID calculations, matrix operations, and data table export
+numpy>=1.24.0
+pandas>=2.0.0
+
+# --- Data Visualization ---
+# For plotting Time/Temperature and Power Output graphs
+matplotlib>=3.7.0
